@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kafu Jobs Portal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="applicatioon_requirements"><![CDATA[Application Letters, \nAcademic Certificates, \nTranscripts, \nProfessional Qualifications, \nCurriculum Vitae detailing experience, \nCurrent post, \nNames & addresses of three (3) referees and compliance to Chapter Six (6) of the Kenyan Constitution]]></string>
+</resources>

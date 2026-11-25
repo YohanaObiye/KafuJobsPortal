@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570344096675",
+    "project_id": "kafu-jobs-portal",
+    "storage_bucket": "kafu-jobs-portal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570344096675:android:25bfa46cedac2a1e95d016",
+        "android_client_info": {
+          "package_name": "com.example.kafujobsportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZbHg8Z817voJ_eZrez35znIPrFCn0jmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
